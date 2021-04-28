@@ -3,7 +3,6 @@
 using namespace std;
 double area_search(double a1, double a2, double a3, double a4, double d);
 int main(){
-    cout << area_search(1,1,1,1,1) << endl;
     return 0;
 }
 double area_search(double a1, double a2, double a3, double a4, double d){
